@@ -1,2 +1,30 @@
-# 83a13a05-language-learning-vocabulary-b
-Language Learning Vocabulary Builder Notion — a professional-grade notion template for education elearning professionals. Built for production use with comprehensive documentation, instant setup, and regular updates included. Save hours of development time with this ready-to-deploy solution. Includes setup guide, configuration templates, and best p
+# Language Learning Vocabulary Builder Notion
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVq3cv9z9bUEg88fQ8cZb2r)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVq3cv9z9bUEg88fQ8cZb2r)
+- [Buy on Whop](https://whop.com/language-learning-vocabulary-builder-notion)
+
